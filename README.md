@@ -1,2 +1,2 @@
 # qiskit-deutsch-jorzsa
-Utilizes qiskit to demonstrate teh Deutsch Jorzsa algorithm - a quantum computing algorithm.
+Utilizes qiskit to demonstrate the Deutsch Jorzsa algorithm - a quantum computing algorithm.
