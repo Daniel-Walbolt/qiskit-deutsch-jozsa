@@ -1,5 +1,5 @@
-# qiskit-deutsch-jorzsa
-Utilizes qiskit to demonstrate the Deutsch Jorzsa algorithm - a quantum computing algorithm.
+# qiskit-deutsch-jozsa
+Utilizes qiskit to demonstrate the Deutsch Jozsa algorithm - a quantum computing algorithm.
 
 ## Setup on Linux (verified) and MacOS (untested)
 Run the setup-project.sh
